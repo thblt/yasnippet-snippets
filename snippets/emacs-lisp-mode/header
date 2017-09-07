@@ -1,0 +1,31 @@
+# name: elisp library file header
+# key: header
+# --
+;;; `(file-name-nondirectory buffer-file-name)` --- $0 -*- lexical-binding: t -*-
+
+;; Copyright (C) `(format-time-string "%Y")` `user-full-name`
+
+;; Author: `(format "%s <%s>" user-full-name user-mail-address)`
+;; Created: `(format-time-string "%d %b %Y")`
+;; Version: 0.0.1
+;; Keywords: $0
+;; X-URL: https://github.com/`user-login-name`/${3:`(file-name-base buffer-file-name)`}
+
+;; This file is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation; either version 3, or (at your option)
+;; any later version.
+
+;; This file is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; For a full copy of the GNU General Public License
+;; see https://www.gnu.org/licenses.
+
+;;; Commentary:
+
+;; $1
+
+;;; Code:
